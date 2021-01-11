@@ -1,0 +1,2 @@
+# Fingerprint-Scanner-Python
+Fingerprint scanner made with Autoencoder, which is a kind of artificial neural network for learning efficient data encoding in an unsupervised way. The project was implemented using Python and Flask.  After retrieving the image selected by the user, the program "runs" it through the existing, previously learned model, and then compares whether it is present in the prepared image set by means of correlation.
